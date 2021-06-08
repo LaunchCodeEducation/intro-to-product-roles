@@ -6,6 +6,8 @@ Chapters
    :maxdepth: 1
    :name: chapterstoc
 
+   first-chapter/index
+
 .. toctree::
 
    genindex
